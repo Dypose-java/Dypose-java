@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Daniil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Automated Quality Assurance</h3>
+
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Dypose-java/UI-test">UI-test</a></br></br>
 
