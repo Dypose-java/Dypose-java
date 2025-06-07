@@ -3,7 +3,7 @@
 <h3 align="center">Automated Quality Assurance</h3>
 
 ## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/Dypose-java/UI-test">UI-test</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/Dypose-java/demoProjectTestUIAPIMOBILE">Project</a></br></br>
 
 <p>Stack technology in project<p>
 
