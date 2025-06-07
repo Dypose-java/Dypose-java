@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Automated Quality Assurance</h3>
 
-## Тестирование UI
+## Тестирование UI,API,MOBILE
 :link: Тестовый проект: <a target="_blank" href="https://github.com/Dypose-java/demoProjectTestUIAPIMOBILE">Project</a></br></br>
 
 <p>Stack technology in project<p>
